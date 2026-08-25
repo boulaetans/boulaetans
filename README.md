@@ -1,14 +1,11 @@
 # Hi, I'm Boula Etans 👋
 
-Junior Mechanical Engineering student at UCLA, interested in aerospace systems, computational modeling, simulation, and mechanical design. My work focuses on applying mathematics, numerical methods, and engineering analysis to understand physical systems and support design decisions.
+Junior Mechanical Engineering student at UCLA.
 
-## 🎓 About
-
-I started college coursework at Riverside City College while still in high school and went full-time after my sophomore year, earning Associate of Science for Transfer degrees in Mathematics, Chemistry, and Biology before transferring to UCLA for Mechanical Engineering.
-
-My research experience began with numerical methods for model rocket flight, building a Python 6DOF flight simulator and validating it against OpenRocket and real flight-computer data. With the RCC Engineering Club I worked on rocket design, CAD, flight simulation, and recovery systems as Vice President and Project Lead. Through the MathWorks Challenge under the Engineering Pathways Program, I led modeling work for a drone arm design project involving CAD, MATLAB-based analysis, material selection, and finite element analysis.
-
-I'm now continuing this at UCLA, with a focus on aerospace systems, flight dynamics, computational modeling and simulation, mechanical design, and structural analysis, and I'm interested in opportunities that bring these areas together to analyze, design, and improve real engineering systems.
+- 🚀 Interested in aerospace systems, flight dynamics, and structural analysis
+- 🛠️ Working with CAD, FEA, and numerical simulation in MATLAB and Python
+- 🎓 Transferred to UCLA from Riverside City College
+- 📫 Reach me at boulaetans@gmail.com or on [LinkedIn](https://www.linkedin.com/in/boulaetans/)
 
 ## 🚀 Featured Projects
 
