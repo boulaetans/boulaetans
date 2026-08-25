@@ -1,6 +1,14 @@
 # Hi, I'm Boula Etans 👋
 
-Engineering student working at the intersection of structural design and numerical simulation — CAD/FEA on one side, orbital-mechanics-grade dynamics modeling on the other.
+Junior Mechanical Engineering student at UCLA, interested in aerospace systems, computational modeling, simulation, and mechanical design. My work focuses on applying mathematics, numerical methods, and engineering analysis to understand physical systems and support design decisions.
+
+## 🎓 About
+
+I started college coursework at Riverside City College while still in high school and went full-time after my sophomore year, earning Associate of Science for Transfer degrees in Mathematics, Chemistry, and Biology before transferring to UCLA for Mechanical Engineering.
+
+My research experience began with numerical methods for model rocket flight — building a Python 6DOF flight simulator and validating it against OpenRocket and real flight-computer data. With the RCC Engineering Club I worked on rocket design, CAD, flight simulation, and recovery systems as Vice President and Project Lead. Through the MathWorks Challenge under the Engineering Pathways Program, I led modeling work for a drone arm design project involving CAD, MATLAB-based analysis, material selection, and finite element analysis.
+
+I'm now continuing this at UCLA, with a focus on aerospace systems, flight dynamics, computational modeling and simulation, mechanical design, and structural analysis — and I'm interested in opportunities that bring these areas together to analyze, design, and improve real engineering systems.
 
 ## 🚀 Featured Projects
 
@@ -19,3 +27,8 @@ Python 6DOF flight simulator built for a real rocket ("Green Eggs," Estes C11-5 
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange.svg)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+## 📫 Contact
+
+[![Email](https://img.shields.io/badge/Email-boulaetans%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:boulaetans@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-boulaetans-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boulaetans/)
