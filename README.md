@@ -10,12 +10,12 @@ Junior Mechanical Engineering student at UCLA.
 ## 🚀 Featured Projects
 
 ### [Drone Payload Capacity and Structural Design Analysis](https://github.com/boulaetans/drone-payload-capacity-and-structural-design-analysis)
-MATLAB-based drone arm design and optimization project completed for the MathWorks Classroom Challenge. Evaluates two distinct drone arm geometries across six engineering materials using thrust-to-weight analysis, finite element analysis (FEA), and material cost optimization to identify the design that maximizes payload capacity while maintaining structural integrity and factor of safety.
+CAD and MATLAB FEA project comparing drone arm designs and materials to maximize payload capacity, built for the MathWorks Classroom Challenge.
 
 `MATLAB` `FEA` `CAD` `Structural Analysis`
 
 ### [NumericalRocketry](https://github.com/boulaetans/numericalrocketry)
-Python 6DOF flight simulator built for a real rocket ("Green Eggs," Estes C11-5 motor) as an honors contract for differential equations, independently reimplementing OpenRocket's physics engine using adaptive-timestep RK4 integration, Barrowman aerodynamics, atmospheric/WGS84 gravity modeling, and recovery-phase dynamics. Validated three ways: against OpenRocket's own simulation, real EasyMini flight-computer telemetry, and Kalman-filtered velocity re-derivation, landing within **0.01% of OpenRocket's apogee prediction** (~200× more accurate than an earlier 1D model).
+A Python 6DOF flight simulator for a real model rocket, validated to within 0.01% of OpenRocket's apogee prediction using real flight-computer data.
 
 `Python` `6DOF Simulation` `Numerical Methods` `Flight Dynamics`
 
