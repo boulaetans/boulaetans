@@ -9,7 +9,7 @@ Junior Mechanical Engineering student at UCLA.
 
 ## 🚀 Featured Projects
 
-### [Drone Payload Capacity and Structural Design Analysis](https://github.com/boulaetans/drone-payload-capacity-and-structural-design-analysis)
+### [Drone Payload Capacity and Structural Design Analysis](https://github.com/dronepayloadteam3/drone-payload-capacity-and-structural-design-analysis)
 CAD and MATLAB FEA project comparing drone arm designs and materials to maximize payload capacity, built for the MathWorks Classroom Challenge.
 
 `MATLAB` `FEA` `CAD` `Structural Analysis`
